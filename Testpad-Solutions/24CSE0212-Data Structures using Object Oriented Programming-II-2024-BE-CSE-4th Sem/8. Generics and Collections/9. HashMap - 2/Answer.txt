@@ -1,0 +1,10 @@
+{bar=earth, baz=wind, foo=air, mumble=fire}
+
+
+{Better=Coding, Amit=Ghai, Code=Quotient}
+
+
+{Better=Coding, Girdhar=Gopal, Code=Quotient}
+
+
+{b=years, c=seven, e=ago, g=seven}

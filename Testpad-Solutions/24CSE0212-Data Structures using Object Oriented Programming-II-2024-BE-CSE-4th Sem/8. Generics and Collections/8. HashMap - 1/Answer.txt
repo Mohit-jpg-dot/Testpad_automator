@@ -1,0 +1,10 @@
+{deux=two, cinq=five, one=un, three=trois, four=quatre}
+
+
+{Code=one, Quotient=two, Get=three, Better=four, Coding=five}
+
+
+{code=one, quotient=two, get=three, better=four, coding=five}
+
+
+{One=code, Two=quotient, Three=get, Four=better, Five=coding}

@@ -1,0 +1,7 @@
+info ls
+
+
+info cat
+
+
+info man

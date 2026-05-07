@@ -1,0 +1,16 @@
+cal 2022
+
+
+cal 09 2016
+
+
+cal -3
+
+
+date +%Y
+
+
+date +%u
+
+
+date +%s

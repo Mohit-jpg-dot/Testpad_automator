@@ -1,0 +1,16 @@
+Linux
+
+
+5.4.0-70-generic
+
+
+x86_64
+
+
+GNU/Linux
+
+
+0
+
+
+0

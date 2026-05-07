@@ -1,0 +1,7 @@
+help cd
+
+
+uptime
+
+
+tty
