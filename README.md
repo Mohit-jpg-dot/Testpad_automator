@@ -1,3 +1,5 @@
+<img src="https://login.testpad.chitkara.edu.in/images/chitkara_logo_primary.png"></br></br>
+
 # Testpad Automator
 
 Testpad Automator helps you open Testpad courses in a browser and:
