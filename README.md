@@ -60,6 +60,8 @@ Sometimes, a question may not get completed on the first attempt. This can happe
 #### Other settings
 - `QUESTIONS_TO_BE_SKIPPED`: This is a list of questions that program will not attempt, due to some technical error on Testpad.
 
+- `SKIP_TUTORIALS`: Set this to `True` to skip tutorial questions without opening or attempting them.
+
 - `HEADLESS`: This setting controls whether the browser runs in the background (default: `FALSE`).
     - If you set `HEADLESS` to `True`, you do **not** need to keep the browser window in focus (as browser would be non-visible).
     - If `HEADLESS` is `False`, you **must** keep the browser window in focus for the program to fully work.
